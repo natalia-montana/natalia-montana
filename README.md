@@ -1,4 +1,4 @@
-# Hi, I'm Natalia Montaña 👋
+# Hi, I'm Natalia Andrea Montaña 👋
 
 ### QA Engineer & Customer Experience (CX) Specialist
 📍 Based in Bogotá, Colombia
