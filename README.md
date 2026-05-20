@@ -15,11 +15,17 @@ Strategic and results-driven professional specializing in bridging the gap betwe
 ---
 
 ### 📂 Featured Projects
-* 🚀 **[Urban Grocers: API Testing](https://github.com/natalia-montana/urban-grocers-api-testing)** – Backend validation, structured JSON payloads, and HTTP error enforcement rules using Postman.
-* 🚗 **[Urban Routes: Carsharing Execution](https://github.com/natalia-montana/urban-routes-carsharing-execution)** – Test execution, bug tracking in Jira, and optimized visual evidence.
+
+#### 🌐 Web Application Validation (UI & Regression)
+* 🚗 **[Urban Routes: Regression Testing](https://github.com/natalia-montana/urban-routes-regression-testing)** – UI component verification, cross-browser consistency validation, and thorough regression test execution.
+* 📋 **[Urban Routes: Carsharing Analysis](https://github.com/natalia-montana/urban-routes-carsharing-analysis)** – Requirements analysis, logical decomposition of complex business rules, and strategic test case design.
+* 🎯 **[Urban Routes: Carsharing Execution](https://github.com/natalia-montana/urban-routes-carsharing-execution)** – Functional test suite execution, comprehensive bug tracking in Jira, and structured visual evidence.
+
+#### ⚙️ Backend & API Validation
+* 🚀 **[Urban Grocers: API Testing](https://github.com/natalia-montana/urban-grocers-api-testing)** – Robust microservice validation, structured JSON payload design, and HTTP error enforcement rules using Postman.
 
 ---
 
 ### 📬 Connect with Me
-* **LinkedIn:** [linkedin.com/in/natalia-montana](https://www.linkedin.com/in/natalia-montana-7359a399/)
-* **Email:** namontana@gmail.com
+* **LinkedIn:** [linkedin.com/in/natalia-montana](www.linkedin.com/in/nataliamontanaherrera)
+* **Email:** namontana@hotmail.com
