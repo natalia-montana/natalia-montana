@@ -22,4 +22,4 @@ Strategic and results-driven professional specializing in bridging the gap betwe
 
 ### 📬 Connect with Me
 * **LinkedIn:** [linkedin.com/in/natalia-montana](https://www.linkedin.com/in/natalia-montana-7359a399/)
-* **Email:** natis.m7@gmail.com
+* **Email:** namontana@gmail.com
